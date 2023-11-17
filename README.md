@@ -11,3 +11,5 @@
 - Código y diagrama UML del Enunciado: clases sobre figuras geométricas del Libro "Ejercicios de programación orientada a objetos con Java y UML" de Leonardo Bermón Angarita.
 ## Entrega 4:
 - Código, Diagramas de casos de uso, de objetos, y de clases de los ejercicios 4.1, 4.2, 4.7, 4.8, 8.1 del Libro "Ejercicios de programación orientada a objetos con Java y UML" de Leonardo Bermón Angarita.
+## Entrega 5:
+- Código, Diagramas de casos de uso, y de clases de los ejercicios 8.2, 8.3 del Libro "Ejercicios de programación orientada a objetos con Java y UML" de Leonardo Bermón Angarita.
