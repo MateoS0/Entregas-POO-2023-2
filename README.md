@@ -13,3 +13,5 @@
 - Código, Diagramas de casos de uso, de objetos, y de clases de los ejercicios 4.1, 4.2, 4.7, 4.8, 8.1 del Libro "Ejercicios de programación orientada a objetos con Java y UML" de Leonardo Bermón Angarita.
 ## Entrega 5:
 - Código, Diagramas de casos de uso, y de clases de los ejercicios 8.2, 8.3 del Libro "Ejercicios de programación orientada a objetos con Java y UML" de Leonardo Bermón Angarita.
+## Entrega 6:
+- CRUD en Java: Crear un archivo que agregue, borre, actualice, y muestre la cédula, nombre, y apellido de una persona.
